@@ -15,9 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on getting started on open source projects and mentoring other developers.
+
 🌱 I’m currently learning web3 and AI concepts by doing starter projects.
+
 👯 I’m looking to collaborate on open source projects and any latest frameworks.
+
 💬 Ask me about web and mobile app development, data structures and algorithms, and system design.
+
 📫 How to reach me: svashish305@gmail.com, here's my [LinkedIn](https://www.linkedin.com/in/shubhashish-verma96/).
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: Banana Chips are my goto snack.
