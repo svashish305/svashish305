@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him/His
 
-⚡ Fun fact: Banana Chips are my goto snack.
+⚡ Fun fact: Banana Chips - my favourite snack.
