@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on beginner friendly open source projects and mentoring other developers.
 
-🌱 I’m currently learning web3 and AI concepts by doing starter projects.
+🌱 I’m currently learning AI and Web3 concepts by doing starter personal projects.
 
 👯 I’m looking to collaborate on open source projects and any latest frameworks.
 
-💬 Ask me about web and mobile app development, data structures and algorithms, and system design.
+💬 Ask me about web and mobile app development, data structures and algorithms, system design and distributed systems.
 
 📫 How to reach me: svashish305@gmail.com, here's my [LinkedIn](https://www.linkedin.com/in/shubhashish-verma96/).
 
