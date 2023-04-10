@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: svashish305@gmail.com, here's my [LinkedIn](https://www.linkedin.com/in/shubhashish-verma96/).
 
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him/His
 
 ⚡ Fun fact: Banana Chips are my goto snack.
