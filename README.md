@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on getting started on open source projects and mentoring other developers.
+🔭 I’m currently working on beginner friendly open source projects and mentoring other developers.
 
 🌱 I’m currently learning web3 and AI concepts by doing starter projects.
 
