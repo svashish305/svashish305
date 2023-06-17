@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on beginner friendly open source projects and mentoring other developers.
 
-🌱 I’m currently learning AI and Web3 concepts by doing starter personal projects.
+🌱 I’m currently learning ML concepts by doing starter personal projects.
 
 👯 I’m looking to collaborate on open source projects and any latest frameworks.
 
