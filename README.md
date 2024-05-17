@@ -28,4 +28,6 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Banana Chips - my favourite snack.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svashish305)](https://github.com/svashish305/github-readme-stats)
+
 [![Contact me on Codementor](https://www.codementor.io/m-badges/svashish305/book-session.svg)](https://www.codementor.io/@svashish305?refer=badge)
