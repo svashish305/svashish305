@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 ![svashish305's GitHub stats](https://github-readme-stats.vercel.app/api?username=svashish305&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svashish305&langs_count=8)](https://github.com/svashish305/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svashish305&layout=donut)](https://github.com/svashish305/github-readme-stats)
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/svashish305/book-session.svg)](https://www.codementor.io/@svashish305?refer=badge)
