@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Banana Chips - my favourite snack.
 
-![svashish305's GitHub stats](https://github-readme-stats.vercel.app/api?username=svashish305&show_icons=true&theme=radical)
+![svashish305's GitHub stats](https://github-readme-stats.vercel.app/api?username=svashish305&include_all_commits=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svashish305&layout=donut&langs_count=8)](https://github.com/svashish305/github-readme-stats)
 
